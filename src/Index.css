@@ -1,0 +1,36 @@
+body {
+    font-family: "Roboto", sans-serif;
+  }
+  
+  .cupon {
+    width: 100px;
+  }
+  
+  p,
+  .gris,
+  input[placeholder] {
+    color: #707070;
+    font-weight: 300;
+  }
+  
+  
+  
+  .bg-green {
+    background-color: black;
+  }
+  
+  .green {
+    color: black;
+  }
+
+  footer{
+  
+    background-color: black;
+    height: 100px;
+
+  }
+
+  .img{
+    width: 100%;
+    height: 60vh;
+  }
